@@ -1,0 +1,16 @@
+
+    :root{
+        --corBackgroundPagina: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
+        --corFonteTitulosParagrafos: #FFF2E7;
+        --corFonteSubtitulos: #ECD6C4;
+        --corFonteBotao: #2F2325;
+        --corBackgroundBotao: #ECD6C4;
+        --corBorda: #fff2e775;
+        
+        --fonteSarala: 'Sarala', sans-serif ;
+        --fonteRighteous: 'Righteous', cursive;       
+    }
+
+    body{
+        background: var(--corBackgroundPagina);
+    }

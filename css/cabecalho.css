@@ -1,0 +1,24 @@
+
+    .conteudoCabecalhoBalleBot{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        border-bottom: 0.4px solid var(--corBorda);
+    }
+
+    .menuNavegacaoCabecalho{
+        display: flex;
+        width: 50%;
+
+        font-family: var(--fonteSarala);
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1rem;
+        line-height: 3rem;
+        color: var(--corFonteTitulosParagrafos);
+    }
+    
+    .menuNavegacaoFilhosStyle{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
